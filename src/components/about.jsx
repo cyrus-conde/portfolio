@@ -35,14 +35,21 @@ const About = () => {
                             <p className="text-5xl font-sans font-black tracking-wider text-center underline decoration-pink-500">WHO AM I</p>
                             
                             <p className="text-justify my-5">
-                            I am Mc Drach Cyrus Conde, 22 years old, a fourth-year Information Technology student at Mindanao State University - Iligan Institute Technology.
+                            I am Mc Drach Cyrus Conde, 23 years old, a graduate from Mindanao State University - Iligan Institute Technology with a Bachelor's degree in Information Technology, specializing in Database Systems.
 
+                            </p>
+                            <p className='text-justify my-5'>
+                            
+                                I started my journey in Information Communication Technology when I was 8 years old. At young age, I learnt how to fix computers from my uncles. I also practice my typing skills and joined competitions, and of course I won. I took Media Arts as my specialization when I was in Junior High School then proceed to ICT in Senior High School. I won several awards with my specializations such as Media Arts of the year for two consecutive years, and master coder of the year when I graduated Senior High School.
+                            </p>
+                            <p className='text-justify my-5'>
+                            
+                                In college, I took Bachelor of Science in Information Technology major in Database Systems. I studied and worked hard to gain such skill in computer programming. During my college life, I work as a freelance web developer and a computer programming mentor. During my 3rd year in college, I work as a website manager in Local Government Unit of Nabunturan.
                             </p>
                             <p className='text-justify'>
                             
-                                At a young age, I loved using and playing with computers. Thus, I developed my typing skill which resulted in being the 2nd placer of a typing contest in 2011. My hobby in junior high school was photography and not programming, but it all changes when I was in grade 10 and about to enroll in senior high school. I saw a person on TV with excellent expertise in IT and was fascinated in the art of programming.  At that time, I decided to become an IT, and I said to myself that I wanted to have that knowledge and achieve great heights in terms of programming. So, I enrolled in ICT at NNCHS-SHS and didn't expect to become good at it. I was awarded as a master coder of the year when I graduated in senior high. And I pursued my dream of becoming a Computer Programmer and enrolled in Mindanao State University - Iligan Institute Technology.
+                                I am very thankful for the knowledge I've got from my education, with my knowledge, I am here now, a full-stack web developer and an aspiring software engineer.
                             </p>
-                            
                         </div>
                     </div>
                 </div>
